@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 newfile bob changes
+=======
+alaice newfile changes
+>>>>>>> Alice file has been commited
